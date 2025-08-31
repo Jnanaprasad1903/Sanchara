@@ -1,2 +1,3 @@
-# Sanchara
-The travel agency website
+# Sanchara - Travel Agency Project
+
+This is my project description...
